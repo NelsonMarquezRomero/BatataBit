@@ -208,7 +208,7 @@ main{
     border-radius: 0 15px 0 0;
 }
 
-.currency-table--container .table__bottom-teft {
+.currency-table--container .table__bottom-left {
     border-radius: 0 0 0 15px;
 }
 
@@ -313,7 +313,7 @@ main{
     border-radius: 0 15px 0 0;
 }
 
-.commission-table--container .table__bottom-teft {
+.commission-table--container .table__bottom-left {
     border-radius: 0 0 0 15px;
 }
 
